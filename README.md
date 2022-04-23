@@ -4,7 +4,9 @@
 ---
 Here we analyze a broad traunch of Kickstarter data, paying special attention to data pertaining to theatrical and musical productions in order to glean useful information about what makes campaigns succeed or fail.  
 
+We can see by looking at our new chart that the months of May and June both have a greater success rate.
 
+![Outcome Based on Launch Date.png](path/to/image_name.png)
 
 Of the Edinburgh Festival Fringe kickstarters that that we examined, all had a goal of less the £4,000. Infact the mean and median were £2,100 and £2,000 respectively.
 
