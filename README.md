@@ -4,7 +4,7 @@
 ---
 Here we analyze a broad traunch of Kickstarter data, paying special attention to data pertaining to theatrical and musical productions in order to glean useful information about what makes campaigns succeed or fail.  
 
-We can see by looking at our new chart that the months of May and June both have a greater success rate.
+The chart below suggests that the months of May and June are both advantageous times to launch a kick starter.
 
 ![Outcome Based on Launch Date.png](https://github.com/brendan-oi/kickstarter-analysis/blob/main/Outcome%20Based%20on%20Launch%20Date.png)
 
