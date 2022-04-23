@@ -6,7 +6,7 @@ Here we analyze a broad traunch of Kickstarter data, paying special attention to
 
 We can see by looking at our new chart that the months of May and June both have a greater success rate.
 
-![Outcome Based on Launch Date.png](path/to/image_name.png)
+![Outcome Based on Launch Date.png](https://github.com/brendan-oi/kickstarter-analysis/blob/main/Outcome%20Based%20on%20Launch%20Date.png)
 
 Of the Edinburgh Festival Fringe kickstarters that that we examined, all had a goal of less the £4,000. Infact the mean and median were £2,100 and £2,000 respectively.
 
