@@ -12,6 +12,6 @@ Of the Edinburgh Festival Fringe kickstarters that that we examined, all had a g
 
 Zooming out to theater productions more broadly, failed campaigns in this category set substantially higher fundraising goals than successful campaigns. Higher goals might not be the only reason these campaigns fails: the mean and median pledged amounts are much lower for failed campaigns than for successful ones. 
 
-BOX AND WISKER PLOT HERE
+![GoalvPledgesBritishMusicals.png](https://github.com/brendan-oi/kickstarter-analysis/blob/main/Outcome%20Based%20on%20Launch%20Date.png)
 
 Note that the mean campaign goal is close to £4,000, but this is more than the even the highest amount pledged, £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
