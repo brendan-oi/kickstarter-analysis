@@ -14,4 +14,4 @@ Zooming out to theater productions more broadly, failed campaigns in this catego
 
 ![GoalvPledgesBritishMusicals.png](https://github.com/brendan-oi/kickstarter-analysis/blob/main/GoalvPledgesBritishMusicals.png)
 
-For the British Musicals evaluated in the chart above the mean campaign goal is close to £4,000, but this is more than even the range of outliers for amount pledged. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged.
+For the British Musicals evaluated in the chart above the mean campaign goal is close to £4,000, but this is more than even the range of outliers for amount pledged. The median campaign goal is around £2,000, which is just over the 3rd quartile for amounts pledged.
