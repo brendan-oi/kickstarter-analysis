@@ -19,6 +19,6 @@ For the British Musicals evaluated in the chart above the mean campaign goal is 
 From all this we can draw the following conclusions:
 * Launch between May and June.
 * Do not launch in September or December.
-* Inspiring priductions do not require large goals or large pledged amounts.
-* Campaigns with lower pledge goals are more likely to succeeed.
-* An initial pledge goal > £2,000 is not recomended.
+* Inspiring productions do not require large goals or large pledged amounts.
+* Campaigns with lower pledge goals are more likely to succeed.
+* An initial pledge goal > £2,000 is not recommended.
